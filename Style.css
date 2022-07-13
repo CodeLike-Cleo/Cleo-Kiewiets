@@ -1,0 +1,40 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
+h1{font-size: xx-large;
+color: rgb(255, 0, 106);
+text-align: center;
+text-decoration: underline;}
+
+h3{text-decoration: crimson;
+text-align: center;
+text-decoration: underline}
+
+img{border-style: solid;
+border-color: aqua;
+border-radius: 10px;}
+
+.image{text-align: center;}
+
+.page{border-style: double;
+border-color: crimson;}
+
+form{text-align: center;
+margin-top: 2cm;}
+
+input{padding: 2cm;
+border-color: blue;
+font-size: 14px;
+border-bottom: solid purple;
+border-radius: 10px;}
+
+button{padding: 1cm;
+width: 110px;
+background-color: aqua;
+font-weight: bold;
+color: azure;
+border-radius: 4px;}
+
+.page{border-style: double;
+border-color: black;}
+
+.contact-body{background-image: url(./Nicki.jpg);}
+
